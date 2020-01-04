@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/0.gif</file>
+        <file>img/1.gif</file>
+        <file>img/2.gif</file>
+        <file>img/3.gif</file>
+        <file>img/4.gif</file>
+        <file>img/5.gif</file>
+        <file>img/6.gif</file>
+        <file>img/7.gif</file>
+        <file>img/8.gif</file>
+        <file>img/ask.gif</file>
+        <file>img/blank.gif</file>
+        <file>img/blood.gif</file>
+        <file>img/d0.gif</file>
+        <file>img/d1.gif</file>
+        <file>img/d2.gif</file>
+        <file>img/d3.gif</file>
+        <file>img/d4.gif</file>
+        <file>img/d5.gif</file>
+        <file>img/d6.gif</file>
+        <file>img/d7.gif</file>
+        <file>img/d8.gif</file>
+        <file>img/d9.gif</file>
+        <file>img/error.gif</file>
+        <file>img/face_fail.gif</file>
+        <file>img/face_normal.gif</file>
+        <file>img/face_success.gif</file>
+        <file>img/flag.gif</file>
+        <file>img/mine.gif</file>
+        <file>img/mine.ico</file>
+    </qresource>
+</RCC>
